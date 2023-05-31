@@ -1,0 +1,16 @@
+{
+    "openai_key": "",
+    "modules": [
+        "home_page",
+        "login_page",
+        "register_page",
+        "menu_page",
+        "menu_item",
+        "vegetarian_page",
+        "non_vegetarian_page",
+        "main_page",
+        "product_list_page",
+        "product_form_page",
+        "cart_page"
+    ]
+}

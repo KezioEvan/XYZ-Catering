@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "571808548815",
+    "project_id": "catering-afd6c",
+    "storage_bucket": "catering-afd6c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:571808548815:android:75f628edafc66a1b2634ba",
+        "android_client_info": {
+          "package_name": "com.example.hyper_ui"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "571808548815-n51lb3oesgqj1bjn7jrt6uduf8iir3kd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-e2g16uZrxm3LKqnVuuaNS38hAP1U5yI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "571808548815-66tdochhubbumdn5aq7j2b4d04shugjr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
